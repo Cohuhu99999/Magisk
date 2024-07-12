@@ -1,3 +1,4 @@
+![Screenshot_20240712_131440](https://github.com/user-attachments/assets/58db1392-a9d3-4da4-b007-1da4e2116c37)
 # Magisk Changelog
 
 ### v27.0
